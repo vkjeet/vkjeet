@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikramjeet
+- 👋 Hi, I’m Vikramjeet
 - 👀 I’m interested in the Data Science, ML and Data analytics 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on above mentioned topics
